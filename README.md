@@ -11,4 +11,6 @@ HTML E-mail Templates
 <ul style="list-style:none">
 
    <li><a href="https://github.com/eltoncampos1/E-mail-templates-HTML/tree/main/EcommerceDesktop"> EcommerceDesktop</a></li>
+   <li><a href="https://github.com/eltoncampos1/E-mail-templates-HTML/tree/main/EccomerceLayout2"> EcommerceDesktop layout 2</a></li>
+
    </ul>
