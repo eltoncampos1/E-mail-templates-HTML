@@ -1,0 +1,84 @@
+<mjml>
+  <mj-body background-color="#fff">
+    <mj-section padding="0">
+      <mj-column border-top="7px solid #fff">
+        <mj-image width="140px" height="60px" src="https://www.medicalcenter.virginia.edu/mobile-device-setup/Apple_with_wordmark.png/image" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image padding="0" src="https://i.pinimg.com/originals/75/a5/1f/75a51fc033e7abd6fcd94685f366ba62.png" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section border-bottom="7px solid #000">
+      <mj-column>
+        <mj-text align="center" font-family="SF Pro" font-size="32px" font-weight="bold" color="#36342f">MJML Email template</mj-text>
+
+        <mj-text font-family="SF Pro" align="center" line-height="25px" font-size="16px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        </mj-text>
+
+        <mj-button font-family="SF Pro" font-weight="bold" font-size="14px" background-color="#000">View MjMl</mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="30px 0">
+
+      <mj-column padding="10px">
+        <mj-image padding="0px" src="https://techcrunch.com/wp-content/uploads/2018/10/hero.jpg?w=940&h=465&crop=1" height="269px" width="280px" />
+      </mj-column>
+      <mj-column>
+
+        <mj-text align="center" font-size="32px" font-weight="bold" color="#36342f">Buy IPhone xr</mj-text>
+        <mj-text font-family="SF Pro" align="center" line-height="25px" font-size="16px">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ducimus molestiae explicabo quasi optio voluptatum in.</mj-text>
+
+        <mj-button font-family="SF Pro" font-weight="bold" font-size="14px" background-color="#000">Read more</mj-button>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section background-color="#000">
+      <mj-column>
+        <mj-text line-height="25px" font-family="SF Pro" color="#fff" font-size="23px" padding="25px" align="center">
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ducimus molestiae explicabo
+        </mj-text>
+
+        <mj-text font-family="SF Pro" color="#fff" font-size="23px" padding="15px 25px" align="center">
+          -jhon Doe
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+
+      <mj-column>
+        <mj-image width="140px" height="60px" src="https://www.medicalcenter.virginia.edu/mobile-device-setup/Apple_with_wordmark.png/image" />
+        <mj-text align="center">Copyright © 2021 Apple Inc</mj-text>
+        <mj-text align="center">Todos os direitos reservados. Apple Computer Brasil Ltda. </mj-text>
+        <mj-navbar>
+          <mj-navbar-link href="#">Unsubscribe</mj-navbar-link>
+        </mj-navbar>
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-social icon-size="30px" mode="horizontal">
+          <mj-social-element background-color="#000" name="facebook" href="https://facebook.com"></mj-social-element>
+          <mj-social-element background-color="#000" name="twitter" href="https://twitter.com"></mj-social-element>
+          <mj-social-element background-color="#000" name="youtube" href="https://youtube.com"></mj-social-element>
+          <mj-social-element background-color="#000" name="instagram" href="https://instagram.com"></mj-social-element>
+          <mj-social-element background-color="#000" name="linkedin" href="https://instagram.com"></mj-social-element>
+
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
