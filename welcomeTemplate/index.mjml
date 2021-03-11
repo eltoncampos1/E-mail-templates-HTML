@@ -1,0 +1,64 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="center" color="#555" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#eee" width="600px">
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image width="800px" src="https://d35fo82fjcw0y8.cloudfront.net/2018/09/27140928/clevertap-welcome-message-header-image-1024x431.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-weight="bold" font-size="30px">Welcome To The Jungle!</mj-text>
+        <mj-text font-size="17px">Hi Paul, welcome to Logo Inc. Great to have you on board.</mj-text>
+        <mj-divider border-width="1px" border-color="#ccc" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="28px" align="left">1. Verify you account</mj-text>
+        <mj-text align="left" font-size="16px">To ensure you're legitimate and not some fake person, please verify your account by clicking the button below.</mj-text>
+        <mj-button font-size="14px" border-radius="5px" align="left" width="170px" height="45px" background-color="#3498DB">Verify My Account</mj-button>
+        <mj-divider border-width="1px" border-color="#ccc" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="28px" align="left">2. Complete your profile</mj-text>
+        <mj-text align="left" font-size="16px">With your account confirmed, it's time to complete your profile. We've found that adding a profile photo and other information will increase your chances of connecting with other Logo Inc. users by 80%.</mj-text>
+        <mj-button color="#3498DB" font-size="14px" border="1px solid #3498DB" border-radius="5px" align="left" width="190px" height="45px" background-color="#fff">Complete My Profile</mj-button>
+        <mj-divider border-width="1px" border-color="#ccc" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="28px" align="left">3. Start meeting people</mj-text>
+        <mj-text align="left" font-size="16px">Now you're ready to start meeting other logo enthusiasts. Good luck.</mj-text>
+        <mj-button color="#3498DB" font-size="14px" border="1px solid #3498DB" border-radius="5px" align="left" width="190px" height="45px" background-color="#fff">Start Meeting People</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1ABC9C">
+      <mj-column>
+        <mj-text color="#fff" font-size="18px">Great to have you on board Paul :-)</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text color="#979797">Company Inc, 3 Abbey Road, San Francisco CA 94102 <br></br> Don't like these emails? Unsubscribe. </mj-text>
+        <mj-social>
+          <mj-social-element background-color="#979797" icon-size="48px" name="twitter" />
+          <mj-social-element background-color="#979797" icon-size="48px" name="facebook" />
+          <mj-social-element background-color="#979797" icon-size="48px" name="pinterest" />
+          <mj-social-element background-color="#979797" icon-size="48px" name="instagram" />
+          <mj-social-element background-color="#979797" icon-size="48px" name="linkedin" />
+        </mj-social>
+        <mj-image width="300px" src="https://www.freepnglogos.com/uploads/app-store-logo-png/google-play-and-apple-app-store-logos-22.png" />
+        <mj-text color="#979797">Powered by HTMLemail.io</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
