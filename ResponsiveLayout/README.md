@@ -1,4 +1,4 @@
-<h1>Responive template demonstrating MJML and HTML</h1>
+<h1>Responsive template demonstrating MJML and HTML</h1>
 
 ## To see more about this MJML
 
