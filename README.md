@@ -13,6 +13,8 @@ HTML E-mail Templates
    <li><a href="https://github.com/eltoncampos1/E-mail-templates-HTML/tree/main/EcommerceDesktop"> EcommerceDesktop</a></li>
    <li><a href="https://github.com/eltoncampos1/E-mail-templates-HTML/tree/main/EccomerceLayout2"> EcommerceDesktop layout 2</a></li>
    <li><a href="https://github.com/eltoncampos1/E-mail-templates-HTML/tree/main/ResponsiveLayout"> Reponsive layout using MJML</a></li>
+   <li><a href="https://github.com/eltoncampos1/E-mail-templates-HTML/tree/main/welcomeTemplate"> Welcome Template</a></li>
+   
 
 
    </ul>
